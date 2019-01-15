@@ -6,7 +6,7 @@ TWITTER_CONSUMER_KEY    = "XXX";
 TWITTER_CONSUMER_SECRET = "XXX";
 TWITTER_ACCESS_TOKEN    = "XXX";
 TWITTER_ACCESS_SECRET   = "XXX";
-TWITTER_SEARCH_PHRASE   = '"epidemiology" OR "population health" OR "public health" OR "global health" OR "publichealth" OR "globalhealth" OR "publichealth" AND "Big data" OR "data science" OR "machine learning" OR "deep learning" OR "analytics" OR "artificial intelligence" OR "ai" OR "visualisation" OR "blockchain" -RT -"healthcare" -"care" -"bitcoin" -from:ClouDatAI'
+TWITTER_SEARCH_PHRASE   = 'XXX'
 function Start_Bot() {
   
   var props = PropertiesService.getScriptProperties();
